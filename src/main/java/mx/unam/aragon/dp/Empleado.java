@@ -23,7 +23,7 @@ public class Empleado extends Persona{
         this.sueldo = sueldo;
         this.horasExtra = horasExtra;
     }
-
+    
     public int getHorasExtra() {
         return horasExtra;
     }
